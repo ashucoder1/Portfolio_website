@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://assets.wallpapersin4k.org/uploads/2017/04/Spring-Green-Wallpaper-16.jpg);
+}
+/* #cv-form{
+    display: none; 
+} */
+#cv-template{
+    display: none;
+}
+.myimg{
+    border: 1px solid rebeccapurple;
+    border-radius: 50%;
+    width: 200px;
+}
+.background{
+    background-color: aqua;
+}
+
